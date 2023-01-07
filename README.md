@@ -3,5 +3,4 @@
 
 - 👀 I’m interested in HTML, CSS, Flutter and travels ✈️
 - 🌱 I’m currently learning Web App Development
-- 💞️ I’m looking to collaborate on Pizzacorn
 
